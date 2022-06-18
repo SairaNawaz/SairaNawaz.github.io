@@ -98,6 +98,24 @@ ul.skills li:last-child{
   margin:0;
 }
 
+ul.projects{
+  /* float:left;
+  width:30%; */
+  display: inline-flex;
+  padding-left:0px;
+  margin: 0 20px 0 0;
+}
+
+ul.projects li{
+  list-style: none;
+  font-size:16px;
+  margin-bottom:10px;
+}
+
+ul.projects li:last-child{
+  margin:0;
+}
+
 /*
  Float Rules
 */
